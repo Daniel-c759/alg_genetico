@@ -1,4 +1,5 @@
-./venv/*
-./venv
-./__pychache__/*.pyc
-./__pychache__
+venv/*
+venv
+__pycache__/*.cpython-310.pyc
+
+
